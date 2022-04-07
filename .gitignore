@@ -1,0 +1,6 @@
+target/*
+.classpath
+.settings
+.project
+first-demo-project - Shortcut.lnk
+.gradle/
